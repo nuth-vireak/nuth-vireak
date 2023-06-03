@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
-```text
-From: 05 January 2022 - To: 31 May 2023
+```txt
+From: 05 January 2022 - To: 01 June 2023
 
-Total Time: 670 hrs 11 mins
+Total Time: 670 hrs 39 mins
 
-Java                   361 hrs 44 mins >>>>>>>>>>>>>------------   53.98 %
+Java                   362 hrs 7 mins  >>>>>>>>>>>>>>-----------   54.00 %
 HTML                   59 hrs 36 mins  >>-----------------------   08.89 %
 Blade Template         42 hrs 49 mins  >>-----------------------   06.39 %
 XML                    38 hrs 29 mins  >------------------------   05.74 %
