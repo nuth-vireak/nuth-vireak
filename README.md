@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2022 - To: 22 August 2024
+From: 05 January 2022 - To: 23 August 2024
 
-Total Time: 1,416 hrs 56 mins
+Total Time: 1,421 hrs 1 min
 
-Java                   778 hrs 59 mins >>>>>>>>>>>>>>-----------   54.98 %
-JavaScript             102 hrs 1 min   >>-----------------------   07.20 %
-HTML                   96 hrs 36 mins  >>-----------------------   06.82 %
-Blade Template         60 hrs 20 mins  >------------------------   04.26 %
-Swift                  55 hrs 45 mins  >------------------------   03.93 %
+Java                   778 hrs 59 mins >>>>>>>>>>>>>>-----------   54.82 %
+JavaScript             102 hrs 1 min   >>-----------------------   07.18 %
+HTML                   96 hrs 36 mins  >>-----------------------   06.80 %
+Blade Template         60 hrs 20 mins  >------------------------   04.25 %
+Swift                  59 hrs 42 mins  >------------------------   04.20 %
 ```
 
 <!--END_SECTION:waka-->
