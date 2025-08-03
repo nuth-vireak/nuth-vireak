@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2022 - To: 31 July 2025
+From: 05 January 2022 - To: 02 August 2025
 
-Total Time: 2,337 hrs 11 mins
+Total Time: 2,337 hrs 30 mins
 
 Java                       1,148 hrs 4 mins>>>>>>>>>>>>-------------   49.12 %
 Swift                      242 hrs 11 mins >>>----------------------   10.36 %
